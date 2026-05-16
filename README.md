@@ -12,7 +12,7 @@ Desenvolvimento de Sistemas Lógica de Programação (utilizando principalmente 
 
 📈 Visão para o futuro Busco transformar meus conhecimentos de tecnologia em uma carreira sólida e de sucesso, sempre aprendendo novas ferramentas, desenvolvendo soluções criativas e buscando oportunidades para crescer profissionalmente na área de TI e desenvolvimento de sistemas. Meu objetivo é unir conhecimento, dedicação e inovação para construir um futuro promissor.
 
-"Entrega o teu caminho ao Senhor; confia nele, e ele tudo fará." Salmos 37:5 ✝️## Hi there 👋
+"Entrega o teu caminho ao Senhor; confia nele, e ele tudo fará." Salmos 37:5 ✝️
 
 <!--
 **luizgustavofm09-art/luizgustavofm09-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
